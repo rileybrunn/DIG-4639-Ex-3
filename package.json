@@ -2,6 +2,7 @@
   "name": "dig-4639-ex-3",
   "version": "1.0.0",
   "description": "Creating a Git Repo from Scratch",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
